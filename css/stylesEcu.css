@@ -1,0 +1,250 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10-ene-2018, 17:42:28
+    Author     : FAMILIA
+*/
+body label {
+    font-size: 12px;
+    font-weight: normal;
+}
+body td {
+
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+#temp{ 
+
+    text-align: center;
+    height: 220px;
+    font-size: 20px;
+}
+
+.lineOrangeTitle{
+ 
+    margin: 0px;
+    padding: 0px;
+    height: 1.15cm;
+    width: 100%;
+    text-align: center;
+    color: black;
+    display: table;
+    font-size: 20px;
+}
+
+.alignV{
+    display: table-cell;
+    vertical-align: middle;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+
+#padre{
+
+    width: 100%;
+    height: 100%;
+}
+
+
+
+#send {
+    float: right;
+    text-align: center;
+    position: relative;
+    height: 40px;
+    width: 120px;
+    font-size: 12px;
+    color:black;
+    font-weight: bold;
+}
+
+#send2 {
+    float: left;
+    text-align: center;
+    position: relative;
+    height: 40px;
+    width: 120px;
+    font-size: 12px;
+    color:black;
+    font-weight: bold;
+
+
+}
+
+Ainput{
+
+    height: 20px;
+    width: 25px;
+    /**
+           -moz-border-radius: 3px;
+           -webkit-border-radius: 3px;
+           border-radius: 3px;
+           border: 1px solid #000000;
+          padding: 0 4px 0 4px;
+    */
+}
+
+input{
+
+    height: 20px;
+    width: 50px;
+    /**
+           -moz-border-radius: 3px;
+           -webkit-border-radius: 3px;
+           border-radius: 3px;
+           border: 1px solid #000000;
+          padding: 0 4px 0 4px;
+    */
+}
+
+
+#tabla input{
+    height: 100%;;
+    width: 100%;
+}
+
+td{
+    padding: 0;
+    margin: 0;
+    font-size: 10px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    vertical-align: middle;
+
+}
+
+
+
+
+.textI{
+    text-align: left;
+}
+.textI td{
+    vertical-align: middle;
+}
+
+
+.textD{
+
+    text-align: right;
+}
+.textC{       
+    text-align: center;
+    font-size: 12px;
+}
+
+#pasos1 {
+    margin-top: 50px;
+}
+
+#pasos td{   
+
+    font-size: 20px;
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px; 
+
+
+}
+
+#linePasos1{
+    width: 100px;
+    height: 1px;
+    background-color: white;             
+
+}
+
+#linePasos2{
+    width: 100px;
+    height: 1px;
+    background-color: white;             
+
+}
+
+#linePasos3{
+    width: 100px;
+    height: 1px;
+    background-color: white;             
+
+}
+
+#linePasos4{
+    width: 100px;
+    height: 1px;
+    background-color: white;             
+
+}
+
+
+
+.lineOrange{
+    width: 100%;
+    height: 3px;
+    background-color: #F6921E;
+}
+
+.espaP{
+
+    padding-bottom: 7px;
+    padding-top: 7px;
+}
+
+
+#empezar{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+a:link {color: white}
+a:visited {color: white}
+a:active {color: white}
+a:hover {color: white}
+
+.input{
+    width: 100px;
+    height: 25px;
+}
+
+.button {
+
+
+}
+
+
+
+
+
+
+
+
+.tdNegro {
+    color: black;
+    font-size:25px;
+}
+
+.redondo{
+    border: 1px solid  ; 
+    border-radius: 5px ;
+    -moz-border-radius: 5px ;
+    -webkit-border-radius: 5px ;
+    margin-bottom:  0px;
+}
+
+input.enlace{
+    border:0; 
+     text-decoration:underline;
+    color:#000;
+    cursor:pointer;
+    outline:none;}
